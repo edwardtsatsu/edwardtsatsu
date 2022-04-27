@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/edward-tsatsu-akorlie-36539b1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edward-tsatsu-akorlie-36539b1a0/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/edward-tsatsu-akorlie-36539b1a0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/edward-tsatsu-akorlie-36539b1a0/" height="30" width="40" /></a>
 <a href="https://kaggle.com/school789456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="school789456" height="30" width="40" /></a>
 <a href="https://fb.com/akorlie edward tsatsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akorlie edward tsatsu" height="30" width="40" /></a>
 </p>
